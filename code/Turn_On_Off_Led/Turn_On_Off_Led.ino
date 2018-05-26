@@ -42,4 +42,4 @@ void temperature(){
   Serial.println(DHT.humidity);
 }
 
-
+//prueba
