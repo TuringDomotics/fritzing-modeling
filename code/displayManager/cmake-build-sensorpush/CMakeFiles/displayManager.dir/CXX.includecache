@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files (x86)/Arduino/libraries/LiquidCrystal/src/LiquidCrystal.h
+inttypes.h
+-
+Print.h
+C:/Program Files (x86)/Arduino/libraries/LiquidCrystal/src/Print.h
+
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/displayManager/cmake-build-sensorpush/displayManager_htSensor.ino.cpp
+Arduino.h
+-
+LiquidCrystal.h
+-
+dht.h
+-
+Arduino.h
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/displayManager/cmake-build-sensorpush/Arduino.h
+

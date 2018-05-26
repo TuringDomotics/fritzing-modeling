@@ -1,0 +1,8 @@
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/displayManager/cmake-build-sensorpush/CMakeFiles/mega_CORE.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/displayManager/cmake-build-sensorpush/CMakeFiles/displayManager-upload.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/displayManager/cmake-build-sensorpush/CMakeFiles/mega_LiquidCrystal.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/displayManager/cmake-build-sensorpush/CMakeFiles/upload.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/displayManager/cmake-build-sensorpush/CMakeFiles/displayManager.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/displayManager/cmake-build-sensorpush/CMakeFiles/displayManager-size.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/displayManager/cmake-build-sensorpush/CMakeFiles/edit_cache.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/displayManager/cmake-build-sensorpush/CMakeFiles/rebuild_cache.dir
