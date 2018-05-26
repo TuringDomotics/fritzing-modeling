@@ -1,0 +1,318 @@
+The target system is: Arduino -  - 
+The host system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Arduino/hardware/tools/avr/bin/avr-gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/3.10.3/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Arduino/hardware/tools/avr/bin/avr-g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/3.10.3/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe" "cmTC_a199c/fast"
+C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_a199c.dir\build.make CMakeFiles/cmTC_a199c.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a199c.dir/testCCompiler.c.obj
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-gcc.exe   -g -Os -w -ffunction-sections -fdata-sections -MMD    -o CMakeFiles\cmTC_a199c.dir\testCCompiler.c.obj   -c E:\Nextcloud\TuringDomotics\fritzing-modeling\code\automaticBrightness\cmake-build-autob-push\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_a199c
+"C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_a199c.dir\link.txt --verbose=1
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-gcc.exe -g -Os -w -ffunction-sections -fdata-sections -MMD   -w -Os -Wl,--gc-sections  CMakeFiles/cmTC_a199c.dir/testCCompiler.c.obj  -o cmTC_a199c 
+mingw32-make.exe[1]: Leaving directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe" "cmTC_e2dbd/fast"
+C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_e2dbd.dir\build.make CMakeFiles/cmTC_e2dbd.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e2dbd.dir/CMakeCCompilerABI.c.obj
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-gcc.exe   -g -Os -w -ffunction-sections -fdata-sections -MMD    -o CMakeFiles\cmTC_e2dbd.dir\CMakeCCompilerABI.c.obj   -c "C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\share\cmake-3.10\Modules\CMakeCCompilerABI.c"
+Linking C executable cmTC_e2dbd
+"C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_e2dbd.dir\link.txt --verbose=1
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-gcc.exe -g -Os -w -ffunction-sections -fdata-sections -MMD   -w -Os -Wl,--gc-sections -v CMakeFiles/cmTC_e2dbd.dir/CMakeCCompilerABI.c.obj  -o cmTC_e2dbd 
+Using built-in specs.
+Reading specs from c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/device-specs/specs-avr2
+COLLECT_GCC=C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-gcc.exe
+COLLECT_LTO_WRAPPER=c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/lto-wrapper.exe
+Target: avr
+Configured with: ../gcc/configure --enable-fixed-point --enable-languages=c,c++ --prefix=/c/jenkins/workspace/avr-gcc/label/winxp-32-mingw/objdir --enable-long-long --disable-nls --disable-checking --disable-libssp --disable-libada --disable-shared --enable-lto --with-avrlibc=yes --with-dwarf2 --disable-doc --target=avr
+Thread model: single
+gcc version 4.9.2 (GCC) 
+COMPILER_PATH=c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/;c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/;c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/bin/
+LIBRARY_PATH=c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/;c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/;c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/
+COLLECT_GCC_OPTIONS='-g' '-Os' '-w' '-ffunction-sections' '-fdata-sections' '-MMD' '-w' '-Os' '-v' '-o' 'cmTC_e2dbd' '-specs=device-specs/specs-avr2'
+ c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/collect2.exe -plugin c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/liblto_plugin-0.dll -plugin-opt=c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\JAVIER~1\AppData\Local\Temp\cczhf2G4.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lm -plugin-opt=-pass-through=-lc -o cmTC_e2dbd -Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2 -Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc -Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib --gc-sections CMakeFiles/cmTC_e2dbd.dir/CMakeCCompilerABI.c.obj --start-group -lgcc -lm -lc --end-group
+mingw32-make.exe[1]: Leaving directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(avr-ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe" "cmTC_e2dbd/fast"]
+  ignore line: [C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_e2dbd.dir\build.make CMakeFiles/cmTC_e2dbd.dir/build]
+  ignore line: [mingw32-make.exe[1]: Entering directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_e2dbd.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-gcc.exe   -g -Os -w -ffunction-sections -fdata-sections -MMD    -o CMakeFiles\cmTC_e2dbd.dir\CMakeCCompilerABI.c.obj   -c "C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\share\cmake-3.10\Modules\CMakeCCompilerABI.c"]
+  ignore line: [Linking C executable cmTC_e2dbd]
+  ignore line: ["C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_e2dbd.dir\link.txt --verbose=1]
+  ignore line: [C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-gcc.exe -g -Os -w -ffunction-sections -fdata-sections -MMD   -w -Os -Wl,--gc-sections -v CMakeFiles/cmTC_e2dbd.dir/CMakeCCompilerABI.c.obj  -o cmTC_e2dbd ]
+  ignore line: [Using built-in specs.]
+  ignore line: [Reading specs from c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/device-specs/specs-avr2]
+  ignore line: [COLLECT_GCC=C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-gcc.exe]
+  ignore line: [COLLECT_LTO_WRAPPER=c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/lto-wrapper.exe]
+  ignore line: [Target: avr]
+  ignore line: [Configured with: ../gcc/configure --enable-fixed-point --enable-languages=c,c++ --prefix=/c/jenkins/workspace/avr-gcc/label/winxp-32-mingw/objdir --enable-long-long --disable-nls --disable-checking --disable-libssp --disable-libada --disable-shared --enable-lto --with-avrlibc=yes --with-dwarf2 --disable-doc --target=avr]
+  ignore line: [Thread model: single]
+  ignore line: [gcc version 4.9.2 (GCC) ]
+  ignore line: [COMPILER_PATH=c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/]
+  ignore line: [c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/]
+  ignore line: [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/bin/]
+  ignore line: [LIBRARY_PATH=c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/]
+  ignore line: [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/]
+  ignore line: [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-g' '-Os' '-w' '-ffunction-sections' '-fdata-sections' '-MMD' '-w' '-Os' '-v' '-o' 'cmTC_e2dbd' '-specs=device-specs/specs-avr2']
+  link line: [ c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/collect2.exe -plugin c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/liblto_plugin-0.dll -plugin-opt=c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\JAVIER~1\AppData\Local\Temp\cczhf2G4.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lm -plugin-opt=-pass-through=-lc -o cmTC_e2dbd -Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2 -Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc -Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib --gc-sections CMakeFiles/cmTC_e2dbd.dir/CMakeCCompilerABI.c.obj --start-group -lgcc -lm -lc --end-group]
+    arg [c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/collect2.exe] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/liblto_plugin-0.dll] ==> ignore
+    arg [-plugin-opt=c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/lto-wrapper.exe] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\JAVIER~1\AppData\Local\Temp\cczhf2G4.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lm] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_e2dbd] ==> ignore
+    arg [-Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2] ==> dir [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2]
+    arg [-Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc] ==> dir [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc]
+    arg [-Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib] ==> dir [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib]
+    arg [--gc-sections] ==> ignore
+    arg [CMakeFiles/cmTC_e2dbd.dir/CMakeCCompilerABI.c.obj] ==> ignore
+    arg [--start-group] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lm] ==> lib [m]
+    arg [-lc] ==> lib [c]
+    arg [--end-group] ==> ignore
+  collapse library dir [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2] ==> [C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2]
+  collapse library dir [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc] ==> [C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc]
+  collapse library dir [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib] ==> [C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/lib]
+  implicit libs: [gcc;m;c]
+  implicit dirs: [C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2;C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc;C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/lib]
+  implicit fwks: []
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe" "cmTC_d5c18/fast"
+C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_d5c18.dir\build.make CMakeFiles/cmTC_d5c18.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d5c18.dir/feature_tests.c.obj
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-gcc.exe   -g -Os -w -ffunction-sections -fdata-sections -MMD    -std=c11 -o CMakeFiles\cmTC_d5c18.dir\feature_tests.c.obj   -c E:\Nextcloud\TuringDomotics\fritzing-modeling\code\automaticBrightness\cmake-build-autob-push\CMakeFiles\feature_tests.c
+Linking C executable cmTC_d5c18
+"C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d5c18.dir\link.txt --verbose=1
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-gcc.exe -g -Os -w -ffunction-sections -fdata-sections -MMD   -w -Os -Wl,--gc-sections  CMakeFiles/cmTC_d5c18.dir/feature_tests.c.obj  -o cmTC_d5c18 
+mingw32-make.exe[1]: Leaving directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe" "cmTC_97d75/fast"
+C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_97d75.dir\build.make CMakeFiles/cmTC_97d75.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_97d75.dir/feature_tests.c.obj
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-gcc.exe   -g -Os -w -ffunction-sections -fdata-sections -MMD    -std=c99 -o CMakeFiles\cmTC_97d75.dir\feature_tests.c.obj   -c E:\Nextcloud\TuringDomotics\fritzing-modeling\code\automaticBrightness\cmake-build-autob-push\CMakeFiles\feature_tests.c
+Linking C executable cmTC_97d75
+"C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_97d75.dir\link.txt --verbose=1
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-gcc.exe -g -Os -w -ffunction-sections -fdata-sections -MMD   -w -Os -Wl,--gc-sections  CMakeFiles/cmTC_97d75.dir/feature_tests.c.obj  -o cmTC_97d75 
+mingw32-make.exe[1]: Leaving directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe" "cmTC_4fa75/fast"
+C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_4fa75.dir\build.make CMakeFiles/cmTC_4fa75.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4fa75.dir/feature_tests.c.obj
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-gcc.exe   -g -Os -w -ffunction-sections -fdata-sections -MMD    -std=c90 -o CMakeFiles\cmTC_4fa75.dir\feature_tests.c.obj   -c E:\Nextcloud\TuringDomotics\fritzing-modeling\code\automaticBrightness\cmake-build-autob-push\CMakeFiles\feature_tests.c
+Linking C executable cmTC_4fa75
+"C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_4fa75.dir\link.txt --verbose=1
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\avr-gcc.exe -g -Os -w -ffunction-sections -fdata-sections -MMD   -w -Os -Wl,--gc-sections  CMakeFiles/cmTC_4fa75.dir/feature_tests.c.obj  -o cmTC_4fa75 
+mingw32-make.exe[1]: Leaving directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe" "cmTC_52250/fast"
+C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_52250.dir\build.make CMakeFiles/cmTC_52250.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_52250.dir/testCXXCompiler.cxx.obj
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE    -g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD    -o CMakeFiles\cmTC_52250.dir\testCXXCompiler.cxx.obj -c E:\Nextcloud\TuringDomotics\fritzing-modeling\code\automaticBrightness\cmake-build-autob-push\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+Linking CXX executable cmTC_52250
+"C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_52250.dir\link.txt --verbose=1
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE  -g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD   -w -Os -Wl,--gc-sections  CMakeFiles/cmTC_52250.dir/testCXXCompiler.cxx.obj  -o cmTC_52250 
+mingw32-make.exe[1]: Leaving directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe" "cmTC_33f7b/fast"
+C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_33f7b.dir\build.make CMakeFiles/cmTC_33f7b.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_33f7b.dir/CMakeCXXCompilerABI.cpp.obj
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE    -g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD    -o CMakeFiles\cmTC_33f7b.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\share\cmake-3.10\Modules\CMakeCXXCompilerABI.cpp"
+Linking CXX executable cmTC_33f7b
+"C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_33f7b.dir\link.txt --verbose=1
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE  -g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD   -w -Os -Wl,--gc-sections -v CMakeFiles/cmTC_33f7b.dir/CMakeCXXCompilerABI.cpp.obj  -o cmTC_33f7b 
+Using built-in specs.
+Reading specs from c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/device-specs/specs-avr2
+COLLECT_GCC=C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE
+COLLECT_LTO_WRAPPER=c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/lto-wrapper.exe
+Target: avr
+Configured with: ../gcc/configure --enable-fixed-point --enable-languages=c,c++ --prefix=/c/jenkins/workspace/avr-gcc/label/winxp-32-mingw/objdir --enable-long-long --disable-nls --disable-checking --disable-libssp --disable-libada --disable-shared --enable-lto --with-avrlibc=yes --with-dwarf2 --disable-doc --target=avr
+Thread model: single
+gcc version 4.9.2 (GCC) 
+COMPILER_PATH=c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/;c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/;c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/bin/
+LIBRARY_PATH=c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/;c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/;c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/
+COLLECT_GCC_OPTIONS='-g' '-Os' '-w' '-fno-exceptions' '-ffunction-sections' '-fdata-sections' '-fno-threadsafe-statics' '-MMD' '-w' '-Os' '-v' '-o' 'cmTC_33f7b' '-specs=device-specs/specs-avr2'
+ c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/collect2.exe -plugin c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/liblto_plugin-0.dll -plugin-opt=c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\JAVIER~1\AppData\Local\Temp\ccAXZKX1.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lm -plugin-opt=-pass-through=-lc -o cmTC_33f7b -Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2 -Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc -Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib --gc-sections CMakeFiles/cmTC_33f7b.dir/CMakeCXXCompilerABI.cpp.obj -lgcc -lm --start-group -lgcc -lm -lc --end-group
+mingw32-make.exe[1]: Leaving directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(avr-ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe" "cmTC_33f7b/fast"]
+  ignore line: [C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_33f7b.dir\build.make CMakeFiles/cmTC_33f7b.dir/build]
+  ignore line: [mingw32-make.exe[1]: Entering directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_33f7b.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE    -g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD    -o CMakeFiles\cmTC_33f7b.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\share\cmake-3.10\Modules\CMakeCXXCompilerABI.cpp"]
+  ignore line: [Linking CXX executable cmTC_33f7b]
+  ignore line: ["C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_33f7b.dir\link.txt --verbose=1]
+  ignore line: [C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE  -g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD   -w -Os -Wl,--gc-sections -v CMakeFiles/cmTC_33f7b.dir/CMakeCXXCompilerABI.cpp.obj  -o cmTC_33f7b ]
+  ignore line: [Using built-in specs.]
+  ignore line: [Reading specs from c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/device-specs/specs-avr2]
+  ignore line: [COLLECT_GCC=C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE]
+  ignore line: [COLLECT_LTO_WRAPPER=c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/lto-wrapper.exe]
+  ignore line: [Target: avr]
+  ignore line: [Configured with: ../gcc/configure --enable-fixed-point --enable-languages=c,c++ --prefix=/c/jenkins/workspace/avr-gcc/label/winxp-32-mingw/objdir --enable-long-long --disable-nls --disable-checking --disable-libssp --disable-libada --disable-shared --enable-lto --with-avrlibc=yes --with-dwarf2 --disable-doc --target=avr]
+  ignore line: [Thread model: single]
+  ignore line: [gcc version 4.9.2 (GCC) ]
+  ignore line: [COMPILER_PATH=c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/]
+  ignore line: [c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/]
+  ignore line: [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/bin/]
+  ignore line: [LIBRARY_PATH=c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/]
+  ignore line: [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/]
+  ignore line: [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-g' '-Os' '-w' '-fno-exceptions' '-ffunction-sections' '-fdata-sections' '-fno-threadsafe-statics' '-MMD' '-w' '-Os' '-v' '-o' 'cmTC_33f7b' '-specs=device-specs/specs-avr2']
+  link line: [ c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/collect2.exe -plugin c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/liblto_plugin-0.dll -plugin-opt=c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\JAVIER~1\AppData\Local\Temp\ccAXZKX1.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lm -plugin-opt=-pass-through=-lc -o cmTC_33f7b -Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2 -Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc -Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib --gc-sections CMakeFiles/cmTC_33f7b.dir/CMakeCXXCompilerABI.cpp.obj -lgcc -lm --start-group -lgcc -lm -lc --end-group]
+    arg [c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/collect2.exe] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/liblto_plugin-0.dll] ==> ignore
+    arg [-plugin-opt=c:/progra~2/arduino/hardware/tools/avr/bin/../libexec/gcc/avr/4.9.2/lto-wrapper.exe] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\JAVIER~1\AppData\Local\Temp\ccAXZKX1.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lm] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_33f7b] ==> ignore
+    arg [-Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2] ==> dir [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2]
+    arg [-Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc] ==> dir [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc]
+    arg [-Lc:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib] ==> dir [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib]
+    arg [--gc-sections] ==> ignore
+    arg [CMakeFiles/cmTC_33f7b.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lm] ==> lib [m]
+    arg [--start-group] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lm] ==> lib [m]
+    arg [-lc] ==> lib [c]
+    arg [--end-group] ==> ignore
+  collapse library dir [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2] ==> [C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2]
+  collapse library dir [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc] ==> [C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc]
+  collapse library dir [c:/progra~2/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib] ==> [C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/lib]
+  implicit libs: [gcc;m;gcc;m;c]
+  implicit dirs: [C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2;C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc;C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/lib]
+  implicit fwks: []
+
+
+
+
+Detecting CXX [-std=c++14] compiler features compiled with the following output:
+Change Dir: E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe" "cmTC_52346/fast"
+C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_52346.dir\build.make CMakeFiles/cmTC_52346.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_52346.dir/feature_tests.cxx.obj
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE    -g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD    -std=c++14 -o CMakeFiles\cmTC_52346.dir\feature_tests.cxx.obj -c E:\Nextcloud\TuringDomotics\fritzing-modeling\code\automaticBrightness\cmake-build-autob-push\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_52346
+"C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_52346.dir\link.txt --verbose=1
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE  -g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD   -w -Os -Wl,--gc-sections  CMakeFiles/cmTC_52346.dir/feature_tests.cxx.obj  -o cmTC_52346 
+mingw32-make.exe[1]: Leaving directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting CXX [-std=c++11] compiler features compiled with the following output:
+Change Dir: E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe" "cmTC_ab00e/fast"
+C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_ab00e.dir\build.make CMakeFiles/cmTC_ab00e.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ab00e.dir/feature_tests.cxx.obj
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE    -g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD    -std=c++11 -o CMakeFiles\cmTC_ab00e.dir\feature_tests.cxx.obj -c E:\Nextcloud\TuringDomotics\fritzing-modeling\code\automaticBrightness\cmake-build-autob-push\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_ab00e
+"C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_ab00e.dir\link.txt --verbose=1
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE  -g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD   -w -Os -Wl,--gc-sections  CMakeFiles/cmTC_ab00e.dir/feature_tests.cxx.obj  -o cmTC_ab00e 
+mingw32-make.exe[1]: Leaving directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting CXX [-std=c++98] compiler features compiled with the following output:
+Change Dir: E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe" "cmTC_4f8f5/fast"
+C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_4f8f5.dir\build.make CMakeFiles/cmTC_4f8f5.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4f8f5.dir/feature_tests.cxx.obj
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE    -g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD    -std=c++98 -o CMakeFiles\cmTC_4f8f5.dir\feature_tests.cxx.obj -c E:\Nextcloud\TuringDomotics\fritzing-modeling\code\automaticBrightness\cmake-build-autob-push\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_4f8f5
+"C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_4f8f5.dir\link.txt --verbose=1
+C:\PROGRA~2\Arduino\hardware\tools\avr\bin\AVR-G_~1.EXE  -g -Os -w -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD   -w -Os -Wl,--gc-sections  CMakeFiles/cmTC_4f8f5.dir/feature_tests.cxx.obj  -o cmTC_4f8f5 
+mingw32-make.exe[1]: Leaving directory 'E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/CMakeFiles/CMakeTmp'
+
+

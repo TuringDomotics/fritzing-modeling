@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+31754b1942e96220f41f8269abe23822 CMakeFiles/automaticBrightness-size
+3f0180c3409806c7ed6aecbe64c678a2 automaticBrightness_automaticBrightness.ino.cpp

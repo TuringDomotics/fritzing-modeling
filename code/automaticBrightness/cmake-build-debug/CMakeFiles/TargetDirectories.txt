@@ -1,0 +1,5 @@
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-debug/CMakeFiles/uno_CORE.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-debug/CMakeFiles/automaticBrightness-size.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-debug/CMakeFiles/automaticBrightness.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-debug/CMakeFiles/rebuild_cache.dir

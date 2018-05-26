@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files (x86)/Arduino/libraries/LiquidCrystal/src/LiquidCrystal.h
+inttypes.h
+-
+Print.h
+C:/Program Files (x86)/Arduino/libraries/LiquidCrystal/src/Print.h
+
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/automaticBrightness_automaticBrightness.ino.cpp
+Arduino.h
+-
+LiquidCrystal.h
+-
+Arduino.h
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/automaticBrightness/cmake-build-autob-push/Arduino.h
+
