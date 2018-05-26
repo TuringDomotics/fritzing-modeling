@@ -1,0 +1,6 @@
+"C:\Users\Javier Alonso Silva\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Nextcloud\TuringDomotics\fritzing-modeling\code\displayManager
+-- Generating displayManager
+-- Using C:/Program Files (x86)/Arduino/hardware/tools/avr/bin/avr-objcopy.exe for converting firmware image to hex
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Nextcloud/TuringDomotics/fritzing-modeling/code/displayManager/cmake-build-debug
