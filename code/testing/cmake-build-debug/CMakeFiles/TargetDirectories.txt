@@ -1,0 +1,7 @@
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-debug/CMakeFiles/testing-size.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-debug/CMakeFiles/testing.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-debug/CMakeFiles/mega_CORE.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-debug/CMakeFiles/testing-upload.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-debug/CMakeFiles/upload.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

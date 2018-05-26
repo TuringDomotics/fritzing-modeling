@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-debug/testing_testing.ino.cpp
+Arduino.h
+-
+Arduino.h
+E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-debug/Arduino.h
+

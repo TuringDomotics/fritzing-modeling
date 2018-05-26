@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+adf6ee5d0a8680c1783443d17e3226cd CMakeFiles/testing-size
+a60cbcb47e8a82d48291871060e6df63 CMakeFiles/testing-upload
+2d472123faeb88cbc3bd7e4dfa2e0760 testing_testing.ino.cpp
