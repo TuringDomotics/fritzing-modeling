@@ -1,11 +1,17 @@
+#include <Esplora.h>
+//#include <dht.h>
+
+//Sensors
+//dht DHT;
+//#define DHT11_PIN 7
+
 //PinValue
 int pinLed = 2;
-int pinLDR = A0;  
+int pinLDR = A0;
 
 //Variables
-int brightness = 255;   
+int brightness = 100;   
 int valueLDR = 0;  
-int maximo = 0;
 
 void setup() {
   Serial.begin(9600);
@@ -14,8 +20,9 @@ void setup() {
 
 void loop() {
   switchLed();
-   
-  delay(30);
+  //temperature();
+  
+  delay(1000);
 }
 
 void switchLed(){
@@ -25,5 +32,13 @@ void switchLed(){
     analogWrite(pinLed, brightness-valueLDR-100);
   else digitalWrite(pinLed, LOW);
 }
+
+//void temperature(){
+//  DHT.read11(DHT11_PIN);
+//  Serial.print("Temperature = ");
+//  Serial.println(DHT.temperature);
+//  Serial.print("Humidity = ");
+//  Serial.println(DHT.humidity);
+//}
 
 
