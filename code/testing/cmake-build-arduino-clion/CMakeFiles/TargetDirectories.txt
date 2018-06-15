@@ -1,7 +1,0 @@
-E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-arduino-clion/CMakeFiles/testing-size.dir
-E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-arduino-clion/CMakeFiles/testing.dir
-E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-arduino-clion/CMakeFiles/mega_CORE.dir
-E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-arduino-clion/CMakeFiles/testing-upload.dir
-E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-arduino-clion/CMakeFiles/upload.dir
-E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-arduino-clion/CMakeFiles/edit_cache.dir
-E:/Nextcloud/TuringDomotics/fritzing-modeling/code/testing/cmake-build-arduino-clion/CMakeFiles/rebuild_cache.dir
