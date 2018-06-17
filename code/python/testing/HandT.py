@@ -2,12 +2,11 @@ import dht
 import machine
 import time
 
-d = dht.DHT11(machine.pin(4))
+d = dht.DHT11(machine.Pin(4))
 def tenMeasures():
     for i in range (0, 10):
-	measures()
+		measures()
 
-    
 def measures():
 	d.measure()
 	print("Temperature: "+ str(d.temperature()))
